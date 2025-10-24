@@ -127,10 +127,10 @@ The Elbow Method is a visual approach used to determine the ideal ‘K’ (numbe
 | **Credit Limit** | ₹3,832 | Low credit exposure |
 | **Full Payment %** | 12% | Partial repayments dominate |
 
-** Interpretation:**  
+**Interpretation:**  
 These are low-engagement customers — conservative spenders who use credit occasionally.  
 
-** Marketing Strategy:**  
+**Marketing Strategy:**  
 - Send cashback or reward-based reactivation offers.  
 - Introduce zero-interest EMI and convenience features.  
 - Encourage digital transactions and small-limit increases.  
@@ -146,10 +146,10 @@ These are low-engagement customers — conservative spenders who use credit occa
 | **Credit Limit** | ₹8,297 | High trust & utilization |
 | **Full Payment %** | 34% | Disciplined repayment |
 
-** Interpretation:**  
+**Interpretation:**  
 These are high-value, financially engaged customers — responsible spenders with strong repayment habits.  
 
-** Marketing Strategy:**  
+**Marketing Strategy:**  
 - Upsell premium credit cards or co-branded partnerships.  
 - Offer travel, lifestyle, and EMI-linked rewards.  
 - Cross-sell personal loans or credit protection plans.  
@@ -168,7 +168,7 @@ These are high-value, financially engaged customers — responsible spenders wit
 | **Repayment Discipline** | High full-payment ratio in Cluster 1 | Safe for high-limit offers |
 | **Campaign ROI** | Better targeting → less spend waste | Personalize offers via CRM segmentation |
 
-** Expected Business Results:**
+**Expected Business Results:**
 - 25–30% increase in engagement among low users.  
 - 10–15% increase in average revenue per active customer.  
 - Reduced churn through personalized campaigns.  
