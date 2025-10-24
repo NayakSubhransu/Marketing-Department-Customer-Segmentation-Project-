@@ -80,10 +80,9 @@ The Elbow Method is a visual approach used to determine the ideal ‘K’ (numbe
 - Reduced 17 behavioral features into **8 latent features**.  
 - Reconstruction loss improved from **0.97 → 0.085**, showing strong learning performance.  
 
-![Uploading image.png…]()
+<img width="875" height="529" alt="image" src="https://github.com/user-attachments/assets/b5f2de53-448e-492f-a86c-5ccbbb8d0535" />
 
 
-<img width="777" height="344" alt="image" src="https://github.com/user-attachments/assets/1c53d690-eb46-47de-9d72-8d3f5814a0cf" />
 <img width="810" height="593" alt="image" src="https://github.com/user-attachments/assets/c980cf60-b58b-4c8a-a180-746279bc70e7" />
 
 <img width="883" height="572" alt="image" src="https://github.com/user-attachments/assets/85e990cd-f707-4d10-83c2-8705844ec429" />
