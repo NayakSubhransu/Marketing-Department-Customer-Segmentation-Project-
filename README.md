@@ -82,8 +82,7 @@ The Elbow Method is a visual approach used to determine the ideal ‘K’ (numbe
 
 <img width="875" height="529" alt="image" src="https://github.com/user-attachments/assets/b5f2de53-448e-492f-a86c-5ccbbb8d0535" />
 
-
-<img width="810" height="593" alt="image" src="https://github.com/user-attachments/assets/c980cf60-b58b-4c8a-a180-746279bc70e7" />
+<img width="854" height="571" alt="image" src="https://github.com/user-attachments/assets/76928be3-01b0-4eee-8bb8-1d9f9149b4e2" />
 
 <img width="883" height="572" alt="image" src="https://github.com/user-attachments/assets/85e990cd-f707-4d10-83c2-8705844ec429" />
 
