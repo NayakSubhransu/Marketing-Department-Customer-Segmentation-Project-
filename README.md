@@ -69,7 +69,7 @@ The main business goal is to:
   <img width="786" height="623" alt="image" src="https://github.com/user-attachments/assets/6544acc4-65d5-47a0-bfd9-cd58e0485fa1" />
 
 
-## What is the Elbow Method?
+#### What is the Elbow Method?
 
 The Elbow Method is a visual approach used to determine the ideal ‘K’ (number of clusters) in K-means clustering. It operates by calculating the Within-Cluster Sum of Squares (WCSS), which is the total of the squared distances between data points and their cluster center. However, there is a point where increasing K no longer leads to a significant decrease in WCSS, and the rate of decrease slows down. This point is often referred to as the elbow.
 
@@ -79,13 +79,23 @@ The Elbow Method is a visual approach used to determine the ideal ‘K’ (numbe
 - Reduced 17 behavioral features into **8 latent features**.  
 - Reconstruction loss improved from **0.97 → 0.085**, showing strong learning performance.  
 
+<img width="883" height="208" alt="image" src="https://github.com/user-attachments/assets/132e56e6-28f1-462b-9bfe-6e6bd544a6a7" />
+
+<img width="777" height="344" alt="image" src="https://github.com/user-attachments/assets/1c53d690-eb46-47de-9d72-8d3f5814a0cf" />
+<img width="810" height="593" alt="image" src="https://github.com/user-attachments/assets/c980cf60-b58b-4c8a-a180-746279bc70e7" />
+
+<img width="883" height="572" alt="image" src="https://github.com/user-attachments/assets/85e990cd-f707-4d10-83c2-8705844ec429" />
+
 ### Step 4: Re-Clustering on Encoded Features  
 - Applied **K-Means on Autoencoder embeddings**.  
 - Generated clear behavioral clusters with higher separation and interpretability.  
 
 ### Step 5: Visualization  
 - PCA used for 2D visualization of encoded clusters.  
-- Generated plots for Elbow curve, Silhouette scores, and latent feature mapping.  
+- Generated plots for Elbow curve, Silhouette scores, and latent feature mapping.
+
+<img width="883" height="536" alt="image" src="https://github.com/user-attachments/assets/45743039-df19-44e1-9fd9-128edabdf44e" />
+
 
 ### Step 6: Business Insight Generation  
 - Automated textual interpretation of each customer segment.  
