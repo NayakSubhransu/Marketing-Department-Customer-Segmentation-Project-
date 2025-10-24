@@ -55,6 +55,8 @@ The main business goal is to:
 - Imputed missing values using **mean strategy**.  
 - Standardized data using **StandardScaler** for clustering.  
 
+<img width="883" height="646" alt="image" src="https://github.com/user-attachments/assets/fe4be9c6-52ea-4c12-81a1-cfac1a22642c" />
+
 ### Step 2: Clustering with K-Means  
 - Applied **MiniBatch K-Means** for efficiency.  
 - Determined optimal `k` using:
@@ -62,16 +64,15 @@ The main business goal is to:
   - **Silhouette Score**  
 - Achieved best results at **k = 2 clusters**.
 
-  <img width="884" height="207" alt="image" src="https://github.com/user-attachments/assets/33c002e0-83f7-45d2-9301-131b68d876c0" />
+<img width="913" height="635" alt="image" src="https://github.com/user-attachments/assets/9539c570-6df5-4d2a-8a6d-221d822c3fcf" />
 
-  <img width="867" height="656" alt="image" src="https://github.com/user-attachments/assets/977808a2-1d78-4156-9c03-9bd177e1d8f4" />
+<img width="936" height="636" alt="image" src="https://github.com/user-attachments/assets/6951f394-7dbb-45d9-852c-7d92d956fd8d" />
 
-  <img width="786" height="623" alt="image" src="https://github.com/user-attachments/assets/6544acc4-65d5-47a0-bfd9-cd58e0485fa1" />
-
+<img width="944" height="607" alt="image" src="https://github.com/user-attachments/assets/bb82fbf8-7840-4bf4-9e36-7e4bbf5a41c1" />
 
 #### What is the Elbow Method?
 
-The Elbow Method is a visual approach used to determine the ideal ‘K’ (number of clusters) in K-means clustering. It operates by calculating the Within-Cluster Sum of Squares (WCSS), which is the total of the squared distances between data points and their cluster center. However, there is a point where increasing K no longer leads to a significant decrease in WCSS, and the rate of decrease slows down. This point is often referred to as the elbow.
+The Elbow Method is a visual approach used to determine the ideal ‘K’ (number of clusters) in K-means clustering. It operates by calculating the Within-Cluster Sum of Squares (WCSS), which is the total of the squared distances between data points and their cluster center. However, there is a point at which increasing K no longer leads to a significant decrease in WCSS, and the rate of decline slows. This point is often referred to as the elbow.
 
 ### Step 3: Feature Compression via Autoencoder  
 - Built a **Neural Network Autoencoder**:
@@ -79,7 +80,8 @@ The Elbow Method is a visual approach used to determine the ideal ‘K’ (numbe
 - Reduced 17 behavioral features into **8 latent features**.  
 - Reconstruction loss improved from **0.97 → 0.085**, showing strong learning performance.  
 
-<img width="883" height="208" alt="image" src="https://github.com/user-attachments/assets/132e56e6-28f1-462b-9bfe-6e6bd544a6a7" />
+![Uploading image.png…]()
+
 
 <img width="777" height="344" alt="image" src="https://github.com/user-attachments/assets/1c53d690-eb46-47de-9d72-8d3f5814a0cf" />
 <img width="810" height="593" alt="image" src="https://github.com/user-attachments/assets/c980cf60-b58b-4c8a-a180-746279bc70e7" />
