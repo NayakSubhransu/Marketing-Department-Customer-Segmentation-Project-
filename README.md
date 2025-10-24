@@ -3,9 +3,10 @@
 ### Business-Driven Clustering & Deep Learning with Autoencoders  
 
 ---
-<img width="891" height="162" alt="image" src="https://github.com/user-attachments/assets/f77a9e9e-de3b-4f61-b94f-28d1f9fde038" />
+<img width="1078" height="500" alt="image" src="https://github.com/user-attachments/assets/5e648be0-f121-4a84-b6ee-fe43c3c2de0b" />
 
-<img width="872" height="279" alt="image" src="https://github.com/user-attachments/assets/30bb4a7b-f648-4901-9f94-2dd0847d48cc" />
+<img width="1069" height="246" alt="image" src="https://github.com/user-attachments/assets/e4811383-4972-4285-aa44-40e23aa6de86" />
+
 
 ##  Project Overview  
 
