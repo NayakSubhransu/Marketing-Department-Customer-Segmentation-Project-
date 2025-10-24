@@ -227,9 +227,9 @@ Cluster 1: Active / High-Value Users (~15%)
 
 ##  Author  
 
-** Name:** Subhransu Priyaranjan Nayak  
-** Email:** *subhransu.nayak.connect@gmail.com*  
-** LinkedIn:** *[(Add your LinkedIn profile)](https://www.linkedin.com/in/subhransu-p-nayak/)*  
+**Name:** Subhransu Priyaranjan Nayak  
+**Email:** *subhransu.nayak.connect@gmail.com*  
+**LinkedIn:** *https://www.linkedin.com/in/subhransu-p-nayak/*  
 
 ---
 
