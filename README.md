@@ -213,7 +213,6 @@ Autoencoder Cluster Means:
 Cluster 0: Moderate Users (~85%)
 Cluster 1: Active / High-Value Users (~15%)
 
-
 ---
 
 ##  Key Takeaways  
