@@ -190,22 +190,7 @@ These are high-value, financially engaged customers — responsible spenders wit
 
 ##  Project Structure  
 
-Marketing_Customer_Segmentation/
-│
-├── 📂 artifacts/                          # Model and data artifacts (saved automatically)
-│   ├── ae_best.h5                         # Trained Autoencoder model (HDF5 format)
-│   ├── encoder_model.keras                # Encoder sub-model (for feature extraction)
-│   ├── kmeans_k2.joblib                   # Trained K-Means clustering model
-│   ├── scaler.joblib                      # StandardScaler or MinMaxScaler for data normalization
-│   ├── clustered_customers_k2.csv         # Final dataset with assigned clusters
-│
-├── 📄 Marketing_Customer_Segmentation.ipynb # Main Jupyter notebook (code for preprocessing, training, clustering)
-│
-├── 📄 Marketing_data.csv                  # Input dataset used for training and clustering
-│
-├── 📄 Marketing_slides.pdf                # Business presentation/slides summarizing insights
-│
-├── 📄 README.md                           # Project documentation (this file)
+<img width="1048" height="487" alt="image" src="https://github.com/user-attachments/assets/038be7f5-4fef-459e-9099-5dd3d620472b" />
 
 ---
 
